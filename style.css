@@ -1,0 +1,8 @@
+*{
+    padding:0 ;
+    margin:0;
+}
+
+.form_signin table input.required_color{
+    background-color: aqua;
+}
